@@ -1,9 +1,4 @@
-A link to [note3](https://obsidian-publisher.netlify.app/getting%20started/example/note3/ "note3")
-
-[](https://obsidian-publisher.netlify.app/getting%20started/example/note3/#heading-1)
-
-[](https://obsidian-publisher.netlify.app/getting%20started/example/note3/#heading-1)[](https://obsidian-publisher.netlify.app/en/Getting%20Started/example/note3/)
-
+A test to dev branch
 # heading 1
 
 Link to 

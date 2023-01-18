@@ -1,0 +1,14 @@
+{
+  "hidden": true,
+  "hiddenList": [
+    "overrides",
+    "README.md",
+    "README-FR.md",
+    "docs/assets",
+    "docs/hidden",
+    "netlify.toml",
+    "Untitled.md",
+    "runtime.txt",
+    "requirements.txt"
+  ]
+}

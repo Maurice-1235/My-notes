@@ -4,51 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "3d90f5ebc41b050a",
+        "id": "84491230c1dc4d17",
         "type": "tabs",
         "children": [
           {
-            "id": "d106e6309b831746",
+            "id": "04cf6563e46c8cdd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "d76d15f33132fdd2",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "17c1c2be4de47fe6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "docs/tags.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0e4322a932e84156",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/notes/haha.md",
-                "mode": "source",
-                "source": false
+                "file": ".obsidian/workspace.json",
+                "staged": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -62,13 +32,11 @@
         "type": "tabs",
         "children": [
           {
-            "id": "844ffa19a0e87507",
+            "id": "53e72667eced6af5",
             "type": "leaf",
             "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical"
-              }
+              "type": "file-tree-view",
+              "state": {}
             }
           },
           {
@@ -93,6 +61,16 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "844ffa19a0e87507",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
           }
         ]
       }
@@ -114,7 +92,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/notes/haha.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +108,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/notes/haha.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,9 +129,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "docs/notes/haha.md"
-              }
+              "state": {}
             }
           },
           {
@@ -173,9 +147,17 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "522459a349a65805",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -190,21 +172,23 @@
       "templates:Insert template": false,
       "markdown-importer:Open format converter": false,
       "command-palette:Open command palette": false,
-      "periodic-notes:Open this week": false,
       "templater-obsidian:Templater": false,
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "file-tree-alternative:File Tree Alternative Plugin": false,
+      "periodic-notes:Open this week": false
     }
   },
-  "active": "0e4322a932e84156",
+  "active": "04cf6563e46c8cdd",
   "lastOpenFiles": [
+    "docs/notes/haha.md",
     "docs/tags.md",
+    "Untitled.md",
     "Untitled 1.canvas",
     "NoteStar.md",
     "2023-01-31.md",
     "A.md",
     "Untitled.canvas",
-    "Untitled.md",
     "2.md",
     "Not.md"
   ]

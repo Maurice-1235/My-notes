@@ -3,6 +3,8 @@
   "cssTheme": "Typora-Vue",
   "textFontFamily": "JetBrains Mono,Fira Code",
   "monospaceFontFamily": "JetBrains Mono",
-  "enabledCssSnippets": [],
+  "enabledCssSnippets": [
+    "drake-vue3"
+  ],
   "theme": "moonstone"
 }
